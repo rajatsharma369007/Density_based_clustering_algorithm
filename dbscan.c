@@ -1,3 +1,7 @@
+// this is a program to implement density based clustering algorithm
+// Author: Rajat Sharma
+// Date: march, 2018
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
